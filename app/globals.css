@@ -1,0 +1,21 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #0b0b0b;
+  color: white;
+}
+
+.section {
+  max-width: 1280px;
+  margin: auto;
+  padding: 8rem 1.5rem;
+}
+
+.card {
+  background: #151515;
+  border-radius: 1rem;
+  padding: 1.5rem;
+}
